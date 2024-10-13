@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcs8ymYis2zsmevhOtKaT639B+Y6dNPI7G98JP396m80tcZ2ENmDKK0hZIkR0bYe7Kfp9Xp4avID/hult1CsLA==",
+  "success": true,
+  "projectFilePath": "/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/Restaurante.OO.csproj",
+  "expectedPackageFiles": [
+    "/home/rodrigo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

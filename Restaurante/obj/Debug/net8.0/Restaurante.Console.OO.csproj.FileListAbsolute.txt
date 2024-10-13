@@ -1,0 +1,14 @@
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.AssemblyInfoInputs.cache
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.AssemblyInfo.cs
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.csproj.CoreCompileInputs.cache
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/bin/Debug/net8.0/Restaurante.Console.OO
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/bin/Debug/net8.0/Restaurante.Console.OO.deps.json
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/bin/Debug/net8.0/Restaurante.Console.OO.runtimeconfig.json
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/bin/Debug/net8.0/Restaurante.Console.OO.dll
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/bin/Debug/net8.0/Restaurante.Console.OO.pdb
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.dll
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/refint/Restaurante.Console.OO.dll
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.pdb
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/Restaurante.Console.OO.genruntimeconfig.cache
+/home/rodrigo/UTFPR/OOP/GitHubRestaurante/Restaurante/obj/Debug/net8.0/ref/Restaurante.Console.OO.dll
