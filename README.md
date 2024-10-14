@@ -1,1 +1,1 @@
-Projeto de **implementação de sistema de restaurantes**, para a matéria de Orientção a Objetos do curso de Ciência da Computação.
+Projeto de implementação de **Sistema de Restaurantes**, para a matéria de **Orientação a Objetos** do curso de **Ciência da Computação**.
